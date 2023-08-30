@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Can Girgin</h1>
 <h3 align="center">A passionate mobile developer from Turkiye</h3>
 
-![Chatter](https://imgur.com/gB9eKpX)
+![Chatter](https://imgur.com/gB9eKpX.png)
 
 - 📫 How to reach me **mcangirgin34@gmail.com**
 
