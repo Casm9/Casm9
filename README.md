@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Can Girgin</h1>
 <h3 align="center">A passionate mobile developer from Turkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=casm9" alt="casm9" /></a> </p>
+![Chatter](https://imgur.com/gB9eKpX)
 
 - 📫 How to reach me **mcangirgin34@gmail.com**
 
