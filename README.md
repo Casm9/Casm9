@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Can Girgin</h1>
-<h3 align="center">A passionate mobile developer from Turkiye</h3>
+<h3 align="center">A passionate mobile developer</h3>
 
 
 - 📫 How to reach me **mcangirgin34@gmail.com**
